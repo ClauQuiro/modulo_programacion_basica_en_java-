@@ -1,0 +1,27 @@
+Entrada
+
+Pan
+porotos verdes
+sal
+carne
+aji
+tomate
+gas 
+aceite
+sarten
+plato
+
+
+Proceso: 
+cortar carne en tiritas
+incorporar sal
+poner aceite en sarten, incorporar la carne
+apagar cuando carne este de cocinada
+aliñar porotos y tomate
+torzar aji
+en el pan poner la carne, el tomate y los porotos
+
+
+salida
+
+Sandwich servido en plato
